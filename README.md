@@ -3,7 +3,7 @@
 TradingTester 是一個專業的 **加密貨幣交易策略回測框架**，使用 Python 開發，提供靈活的策略設計與回測功能，適合用於研究與驗證不同的交易策略。
 
 ![Python](https://img.shields.io/badge/Python-3.12.0-blue)
-![Repo](https://img.shields.io/badge/Repository-Private-lightgrey)
+![Repo](https://img.shields.io/badge/Repository-Public-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
@@ -63,6 +63,9 @@ TradingTester/
 
 1. **建立虛擬環境並安裝套件**
    ```bash
+   git clone https://github.com/bine0619/TradingTester.git
+   cd TradingTester
+
    python -m venv venv
    source venv/bin/activate   # Linux / macOS
    venv\Scripts\activate      # Windows
@@ -106,3 +109,6 @@ TradingTester/
 - [bine0619](https://github.com/bine0619)
 
 ---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
