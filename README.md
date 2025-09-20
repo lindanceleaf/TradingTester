@@ -97,7 +97,7 @@ TradingTester/
 
 ---
 
-## 🛠Roadmap
+## Roadmap
 - [ ] 增加更多策略（MACD、Bollinger Bands）
 - [ ] 支援多幣種回測
 - [ ] 優化績效報表輸出
